@@ -45,7 +45,4 @@ We specialize in building **custom SaaS applications**, **MVPs**, and **full-sta
 <a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find Us</h2>
 <p><a target="_blank" href="https://twitter.com/appekt13817" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darlio88&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darlio88&" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=darlio88&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darlio88" alt="" /></a></p>
+
